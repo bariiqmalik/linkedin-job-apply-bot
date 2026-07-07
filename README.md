@@ -1,3 +1,12 @@
+# 📢 Project Disclaimer & Context
+
+This project was built as part of a technical assessment for the **Front End Development Internship** at **JP IT STAFFING LLC**.
+
+### 🤖 AI Assistance Disclosure
+In alignment with modern development workflows and transparency, this repository was built utilizing AI assistance. AI was leveraged to ensure best practices in structural architecture, clean code formatting, secure environment variable routing, and robust error handling.
+
+---
+
 # LinkedIn Job Apply Bot 🤖
 
 A beginner-friendly Python script that automatically scans recent LinkedIn posts matching
